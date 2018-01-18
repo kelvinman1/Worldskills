@@ -1,0 +1,15 @@
+D:\project\project\bin\Debug\project.exe.config
+D:\project\project\bin\Debug\project.exe
+D:\project\project\bin\Debug\project.pdb
+D:\project\project\bin\Debug\MySql.Data.dll
+D:\project\project\bin\Debug\MySql.Data.xml
+D:\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+D:\project\project\obj\Debug\project.Properties.Resources.resources
+D:\project\project\obj\Debug\project.csproj.GenerateResource.Cache
+D:\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\project\project\obj\Debug\project.exe
+D:\project\project\obj\Debug\project.pdb
+D:\project\project\obj\Debug\project.FormAuth.resources
+D:\project\project\obj\Debug\project.AdminForms.FormAdmin.resources
+D:\project\project\obj\Debug\project.UserForms.FormProductOnStock.resources
+D:\project\project\obj\Debug\project.UserForms.FormUser.resources
